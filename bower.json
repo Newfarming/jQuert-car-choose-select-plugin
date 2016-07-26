@@ -1,0 +1,20 @@
+{
+  "name": "jQuery-car-choose-select-plugin",
+  "homepage": "https://github.com/Newfarming/jQuert-car-choose-select-plugin",
+  "description": "基于jQuery框架的车型车系级联选择器",
+  "main": "",
+  "keywords": [
+    "car-choose",
+    "jQuery",
+    "selectize"
+  ],
+  "authors": [
+    "Newfarming 427878540@qq.com"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "selectize": "^0.12.1",
+    "jquery": "^3.1.0",
+    "tkJSPinyin": "dqmJSPinyin#^1.0.0"
+  }
+}
